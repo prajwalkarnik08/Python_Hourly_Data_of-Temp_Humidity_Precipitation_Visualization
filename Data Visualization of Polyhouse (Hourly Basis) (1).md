@@ -151,7 +151,7 @@ fig.update_layout(
 # Save as HTML for manual viewing
 output_file = "weather_animation_live.html"
 fig.write_html(output_file)
-print(f"✅ Animation saved. Download it here: {output_file}")
+print(f"✅ Animation saved as: {output_file}")
 
 ```
 
@@ -304,7 +304,7 @@ fig.update_layout(
 # Save as HTML for manual viewing
 output_file = "weather_animation_with_grid.html"
 fig.write_html(output_file)
-print(f"✅ Animation saved. Download it here: {output_file}")
+print(f"✅ Animation saved as: {output_file}")
 
 ```
 
