@@ -155,7 +155,7 @@ print(f"✅ Animation saved. Download it here: {output_file}")
 
 ```
 
-    ✅ Animation saved. Download it here: weather_animation_live.html
+    ✅ Animation saved as: weather_animation_live.html
     
 
 
@@ -308,7 +308,7 @@ print(f"✅ Animation saved. Download it here: {output_file}")
 
 ```
 
-    ✅ Animation saved. Download it here: weather_animation_with_grid.html
+    ✅ Animation saved as: weather_animation_with_grid.html
     
 
 
